@@ -1,4 +1,5 @@
-{"name": "Dyatlova Rimma Sergeevna",
- "age": 36,
- "number of pets": 2,
- "salary": 100000}
+{"firstName": "Римма",
+"lastName": "Дятлова",
+"age": 36,
+"number of pets": 2,
+"salary": 100000}
